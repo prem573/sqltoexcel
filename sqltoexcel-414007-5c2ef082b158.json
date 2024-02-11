@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sqltoexcel-414007",
+  "private_key_id": "5c2ef082b15803d11d9b87941b5069fb7dcf3961",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3+iKtbAPG55jg\nMR2QjObzxJxvcbCe3aKkcmng7J1XZkoWYyQCY+JAX7ETU24VKeuoDPZw2qTCcoiU\nHtyD+KEmXsG7HZilN6FiAFapG5kcLCEoVMxcjH3bm15SEGh3ATvyC8mXaySgJ6HE\nUO9X8kk4jJReYAucxLW4MBQOWE0MJIrOyuy0Jxn48C4S5JMRH3FLvvf4kfqmpOdB\nUEd7W0Ol9yXOedTXaI9Q5lW/c2qQ2E3ltLLkrsOZHMDRvo0YHlfGia5yyNWLB862\nJ43x8/maSdM/g7Ygw4K9bJZbm63sL+a3ulfr6Z4NsmPvuSnwfzzD4s7PY0bLjFr5\nJx1a4kv1AgMBAAECggEAAtmWyCdnbHaY342KVgmv2cIyRxHmWNwc+IvYS9EiFYES\ns6AUbUdGKk6tn3DoMjRmX5cRJj8QYv3YxVcTtsHePFEmy1oHr229vbN1pDYaPBZ9\nI6vNgNu9n9HUNzgdoNQWnxUm/xRDfG1raG88h7V2WZPL67OtaJiff5RhwHzp6RQb\nP44q7W34H2u2h09OTkBerOa2BW+DeEGp9vdqmXvOx4L7nGB4M4uH7a9GUaDn8xTW\njEWg607sEIdYaEycyj9ma3VfD4sjXK7OBoM967NOt9J3WF0E7PZ5kr/YefpJ0NeI\nq6AIL9SPaovjXi4O67wpdkySarawrCXjyQ9dlHQe4QKBgQD++4qyq+M0VBgYj9la\nxnzhHO6pTR0w3arOS04RJy0Zf5YxkL3RKKXObGnuQyInjL+7+zvP/lVdMJwhKiXk\nvb80OHeSNIsT3twBbKrRTMs0zdyYA8az4dBeogEF4Hahwn8uWHgVxt2+jwVGtPLK\n2fEwp/Zm/HxLXXuk86Sbz9asLQKBgQC4thA45qtzw8LjIT80wsYUlViUAVYh50lj\neEexsGWS6ZyZ9e6jGeKEvVmFYI0L4T06FHRiHgE+3481hzsG8ujRo1xsT9enqTcV\nKDf0o7qUqLafzgMe8NjH9J8sKlDymwv8TbXoaPENwOr/2YBNGL9WUw3f5I373O48\n20bVpIFT6QKBgFvxuIHVGYi1CjtRI79n83/5PtYtyGjmhcD9xpjI16pqJ26YEtpp\nHeDhlxEjhB1e04Slg1vtCjsgXCxZVnC1O01JT1SZPc1cf1jEJpRybJQN542pTu1u\ncASvxk6oMh8CU3oSzLqNi0g7qltkxGgBTseMyX05blh+zScd9C17NJ3BAoGAVD+W\nfp2XriGoDnjnn2UHe/Pyhu9lHemka5489SsD6VJsfzzRL8tqqijDYDZ9nuGJT6hs\nvSP6ZXcKlturbKv2zUe5rB1uu6ZO3XOOsiLLw2qAgbsxaTdpaSqGP1q9uSpG+Tlo\nsyzKZf+MME5AWuniu7j+JxTUPgCzGUbatC9oXaECgYEAqD48ic4WUPHElN12J3k1\n+hFxDQ/WpkBB84IjCz1JUfoR18V3BrA/1R7jECGaY0spbK8tvIe4rj671QGcfloq\n8bzUnpF55Dy82ZbXTwrYBQloh3oFQhNbRWdncm/PR1VK7IJGdFeEnG5nPafC2s5x\nSq5kV7fXhuxqLSg2UzJRe60=\n-----END PRIVATE KEY-----\n",
+  "client_email": "excel-api@sqltoexcel-414007.iam.gserviceaccount.com",
+  "client_id": "117899785504144691426",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/excel-api%40sqltoexcel-414007.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
